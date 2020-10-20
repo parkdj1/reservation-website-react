@@ -6,4 +6,4 @@ Learned how to use
 - Contentful headless CMS for data management
 - Netlify for hosting application
 
-% tutorial by john smilga on freeCodeCamp.org
+// tutorial by john smilga on freeCodeCamp.org
